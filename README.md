@@ -1,4 +1,4 @@
-# : hyeonmin02`s github (h1)
+# : hyeonmin02's github
 #### : 소개
 [My Github](https://github.com/hyeonmin02)
 
